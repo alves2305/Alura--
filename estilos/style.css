@@ -83,8 +83,8 @@ body {
     border: solid 2px var(--branco-principal);
 }
 
-.acnora__contain__diferencial:hover {
-    background: var(--botao-azul);
+.acnora__contain:hover {
+    background: var(--cinza-secundario);
 }
 
 
@@ -269,5 +269,5 @@ body {
 }
 
 .links__rodape:hover {
-    background: #167BF7;
+    background: var(--botao-azul)
 }
