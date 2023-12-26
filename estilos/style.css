@@ -271,3 +271,37 @@ body {
 .links__rodape:hover {
     background: var(--botao-azul)
 }
+
+
+
+@media (max-width: 1300px) {
+    .tamanho__titulo__contain {
+        width: 570px;
+    }
+    .titulo__contain {
+        font-size: 35px;
+    }
+    .acnora__contain {
+        width: 450px;
+    }
+    .links__rodape {
+        font-size: 20px;
+        
+    }
+    .direitos__footer {
+        font-size: 20px;
+
+    }
+    .titulo__secundario__contain {
+        font-size: 40px;
+    }
+    .conteudo__secundario__contain {
+        font-size: 30px;
+    }
+    .titulo__quartenario__contain {
+        font-size: 40px;
+    }
+    .lista__item {
+        font-size :30px;
+    }
+}
