@@ -305,3 +305,30 @@ body {
         font-size :30px;
     }
 }
+
+@media (max-width:900px) {
+    .conteudo__menu{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    .conteudo__menu {
+       background-image: url(/imagens/Background2.png);
+       background-size: contain;
+       background-repeat: no-repeat;
+    }
+    .titulo__contain {
+        font-size: 25px;
+    }
+    .tamanho__titulo__contain {
+        width: 300px;
+        margin-top: 30%;
+        text-align: center;
+    }
+    .acnora__contain {
+        width: 200px;
+        font-size: 15px;
+    }
+
+}
