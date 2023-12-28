@@ -404,9 +404,24 @@ body {
     
 
 
-   .conteudo-quinto{
-    display: flex;
-    flex-direction:column;
+   
     
+   .dispositivos__listas {
+    display: flex;
+    flex-direction: column;
+    font-size: 25px;
    }
+   .lista__item {
+    font-size: 20px;
+   }
+
+
+  .links__rodape{
+    font-size: 10px;
+  }
+  .conteudo__footer {
+    margin-top: 20px
+  }
+   
+   
 }
