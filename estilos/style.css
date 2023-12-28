@@ -317,7 +317,7 @@ body {
        display: flex;
         align-items: center;
         justify-content: center;
-        height: 70vh;
+        
     }
     .titulo__contain {
         font-size: 25px;
@@ -340,7 +340,7 @@ body {
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        height: 70vh;
+        
     }
     .titulo__secundario__contain {
         font-size: 25px;
